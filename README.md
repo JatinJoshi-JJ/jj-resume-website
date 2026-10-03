@@ -17,8 +17,8 @@ The website is intentionally built with **pure Semantic HTML5 and modern CSS3**,
 
 ## 🌐 Live Demonstration & Links
 
-- 🔗 **Live Website:** [jj-portfolio-website.netlify.app](https://jj-portfolio-website.netlify.app/)
-- 📦 **GitHub Repository:** [Repository](https://github.com/your-username/retro-editorial-resume)
+- 🔗 **Live Website:** [https://jj-resume-website.netlify.app/](https://jj-resume-website.netlify.app/)
+- 📦 **GitHub Repository:** [Repository](https://github.com/JatinJoshi-JJ/jj-resume-website.git)
 - 👤 **Developer:** Jatin Hemraj Joshi
 - 📍 **Location:** Pune, Maharashtra, India
 
